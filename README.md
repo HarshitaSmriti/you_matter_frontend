@@ -2,7 +2,7 @@
 
 <br/>
 
-<img width="125" height="125" alt="YouMatter Logo" src="https://github.com/user-attachments/assets/cdc943a9-9e4e-48a0-aee4-b11e50b3afce" />
+<img width="125" height="125" alt="YouMatter Logo" src="logo.png" />
 
 <br/><br/>
 
@@ -17,15 +17,11 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Open_App-C4B5F4?style=for-the-badge&labelColor=2D2350)](https://your-vercel-link.vercel.app)
+![License](https://img.shields.io/badge/License-MIT-93C5FD?style=for-the-badge&labelColor=2D2350)
 
-[![License](https://img.shields.io/badge/License-MIT-93C5FD?style=for-the-badge&labelColor=2D2350)](LICENSE)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-FBBF9A?style=for-the-badge&labelColor=2D2350)](CONTRIBUTING.md)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-FBBF9A?style=for-the-badge&labelColor=2D2350)
 
 <br/>
-
-![YouMatter Banner](https://placehold.co/900x300/C4B5F4/2D2350?text=YouMatter+—+Your+AI+Companion+That+Cares)
 
 </div>
 
@@ -155,7 +151,7 @@ youmatter/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/youmatter.git
+git clone your-repository-url
 cd youmatter
 ```
 
