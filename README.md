@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-# YouMatter 💙
+# YouMatter 
 
 ### *Your AI companion that cares.*
 
@@ -15,19 +15,12 @@
   built to make wellbeing support accessible to everyone, everywhere, always.
 </p>
 
-<br/>
-
-![License](https://img.shields.io/badge/License-MIT-93C5FD?style=for-the-badge&labelColor=2D2350)
-
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-FBBF9A?style=for-the-badge&labelColor=2D2350)
-
-<br/>
 
 </div>
 
 ---
 
-# 🌸 What is YouMatter?
+#  What is YouMatter?
 
 **YouMatter** is an AI-powered mental health companion and lab report interpreter built to make emotional support and healthcare guidance accessible to everyone.
 
@@ -41,7 +34,7 @@ It helps users:
 
 ---
 
-# ✨ Features
+#  Features
 
 ## 💬 AI Mental Health Companion
 
@@ -52,7 +45,7 @@ It helps users:
 
 ---
 
-## 📋 Lab Report Interpreter
+##  Lab Report Interpreter
 
 Upload blood test or medical reports and receive:
 
@@ -63,7 +56,7 @@ Upload blood test or medical reports and receive:
 
 ---
 
-## 🌬️ Guided Breathing Exercises
+##  Guided Breathing Exercises
 
 Built-in breathing modes:
 
@@ -73,7 +66,7 @@ Built-in breathing modes:
 
 ---
 
-## 📓 Private Mood Journal
+##  Private Mood Journal
 
 - Daily journaling
 - Mood tagging
@@ -82,7 +75,7 @@ Built-in breathing modes:
 
 ---
 
-## 📊 Mood Analytics
+##  Mood Analytics
 
 - Mood trends
 - Emotional history
@@ -91,13 +84,13 @@ Built-in breathing modes:
 
 ---
 
-## 🆘 Crisis Support
+##  Crisis Support
 
 Built-in crisis assistance with emergency resources and helplines.
 
 ---
 
-# 🖥️ Frontend Overview
+#  Frontend Overview
 
 - Responsive UI
 - Smooth animations
@@ -107,7 +100,7 @@ Built-in crisis assistance with emergency resources and helplines.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 | Category | Technology |
 |---|---|
@@ -122,7 +115,7 @@ Built-in crisis assistance with emergency resources and helplines.
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```bash
 youmatter/
@@ -146,7 +139,7 @@ youmatter/
 
 ---
 
-# 🚀 Getting Started
+#  Getting Started
 
 ## 1. Clone Repository
 
@@ -217,7 +210,7 @@ npm start
 
 ---
 
-# 🔒 Safety & Privacy
+#  Safety & Privacy
 
 YouMatter prioritizes user privacy.
 
@@ -230,7 +223,7 @@ YouMatter prioritizes user privacy.
 
 ---
 
-# 👥 Team
+#  Team
 
 Built by students of **Haldia Institute of Technology**.
 
@@ -246,7 +239,7 @@ Built by students of **Haldia Institute of Technology**.
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions are welcome.
 
@@ -265,13 +258,13 @@ git push origin feature-name
 
 ---
 
-# 📄 License
+#  License
 
 Licensed under the MIT License.
 
 ---
 
-# ⚠️ Disclaimer
+#  Disclaimer
 
 YouMatter does not provide medical diagnosis or treatment.
 
