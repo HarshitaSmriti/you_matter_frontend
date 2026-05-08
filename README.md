@@ -1,11 +1,5 @@
 <div align="center">
 
-<br/>
-
-<img width="125" height="125" alt="YouMatter Logo" src="logo.png" />
-
-<br/><br/>
-
 # YouMatter 
 
 ### *Your AI companion that cares.*
